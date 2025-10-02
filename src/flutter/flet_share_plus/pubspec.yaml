@@ -1,22 +1,18 @@
 name: flet_share_plus
 description: Flet FletSharePlus control
-repository: https://github.com/ayamnash/sharep/tree/main/src/flutter/flet_share_plus
+repository: https://github.com/a1y9/flet-share-plus/tree/main/src/flutter/flet_share_plus
 version: 0.1.0
-homepage: https://github.com/ayamnash/sharep
+homepage: https://github.com/a1y9/flet-share-plus
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
-  flet: 
-    git:
-      url: https://github.com/flet-dev/flet.git
-      ref: main
-      path: packages/flet
+  flet: 0.70.0.dev5774
   flutter:
     sdk: flutter
-  share_plus: ^12.0.0
+  share_plus: ^10.1.4
 
 dev_dependencies:
   flutter_test:
