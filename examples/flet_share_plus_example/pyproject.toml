@@ -9,7 +9,7 @@ authors = [
 ]
 dependencies = [
   "flet-share-plus @ git+https://github.com/a1y9/flet-share-plus.git",
-  "flet>=0.70.0.dev5774",
+  "flet>=0.28.3",
 ]
 
 [tool.flet]
@@ -32,8 +32,8 @@ path = "src"
 
 [tool.uv]
 dev-dependencies = [
-    "flet[all]==0.70.0.dev5774",
+    "flet[all]==0.28.3",
 ]
 
 [tool.poetry.group.dev.dependencies]
-flet = {extras = ["all"], version = "0.70.0.dev5774"}
+flet = {extras = ["all"], version = "0.28.3"}
