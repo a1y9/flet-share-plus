@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/flet_share_plus/__init__.py
+src/flet_share_plus/flet_share_plus.py
+src/flet_share_plus.egg-info/PKG-INFO
+src/flet_share_plus.egg-info/SOURCES.txt
+src/flet_share_plus.egg-info/dependency_links.txt
+src/flet_share_plus.egg-info/requires.txt
+src/flet_share_plus.egg-info/top_level.txt
+src/flutter/flet_share_plus/CHANGELOG.md
+src/flutter/flet_share_plus/LICENSE
+src/flutter/flet_share_plus/README.md
+src/flutter/flet_share_plus/pubspec.lock
+src/flutter/flet_share_plus/pubspec.yaml
+src/flutter/flet_share_plus/lib/flet_share_plus.dart
+src/flutter/flet_share_plus/lib/src/create_control.dart
+src/flutter/flet_share_plus/lib/src/flet_share_plus.dart

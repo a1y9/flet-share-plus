@@ -1,0 +1,1 @@
+from flet_share_plus.flet_share_plus import SharePlus
