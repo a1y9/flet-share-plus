@@ -1,6 +1,6 @@
 # flet-share-plus
 FletSharePlus control for Flet
 
-Flet version: 0.27.6
+Flet version: 0.28.3
 
 TODO: Add your control documentation here.
